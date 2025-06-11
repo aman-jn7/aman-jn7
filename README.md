@@ -22,12 +22,6 @@ I love solving problems with code and building tools that are useful, simple, an
 
 ---
 
-## 📈 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-jn7&show_icons=true&theme=radical)
-
----
-
 ## 💬 Let's Connect
 
 Feel free to connect if you want to collaborate, discuss AI ideas, or talk data:
