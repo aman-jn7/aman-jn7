@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Aman Kumar
 
 🎓 Completed B.E. in Electronics and Communication Engineering (2021–2025)  
-🔭 Passionate about AI, Data Science, and building real-world solutions  
-📫 Reach me at: sraaz3492@gmail.com | [LinkedIn](https://www.linkedin.com/in/amankr0300)
+🔭 Passionate about AI, Data Science, and building real-world solutions
 
 ---
 
@@ -15,7 +14,7 @@ I love solving problems with code and building tools that are useful, simple, an
 
 ## 🧠 Skills & Tools
 
-**Languages:** Python, SQL, C++ 
+**Languages:** Python, SQL, C++      
 **ML/AI:** Scikit-learn, TensorFlow, SentenceTransformers, Pinecone, LangChain  
 **Data:** Pandas, NumPy, Power BI, Excel  
 **Tools:** Git, Streamlit, Docker, Jupyter 
