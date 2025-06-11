@@ -17,7 +17,7 @@ I love solving problems with code and building tools that are useful, simple, an
 **Languages:** Python, SQL, C++      
 **ML/AI:** Scikit-learn, TensorFlow, SentenceTransformers, Pinecone, LangChain  
 **Data:** Pandas, NumPy, Power BI, Excel  
-**Tools:** Git, Streamlit, Docker, Jupyter 
+**Tools:** Git, Streamlit, Docker, Jupyter       
 **Concepts:** LLMs, RAG, Data Preprocessing, EDA, Feature Engineering
 
 ---
