@@ -25,4 +25,4 @@ I love solving problems with code and building tools that are useful, simple, an
 ## 💬 Let's Connect
 
 Feel free to connect if you want to collaborate, discuss AI ideas, or talk data:
-📧 sraaz3492@gmail.com | [LinkedIn](https://www.linkedin.com/in/amankr0300)
+📧 aman.kr.sp7@gmail.com | [LinkedIn](https://www.linkedin.com/in/amankr0300)
